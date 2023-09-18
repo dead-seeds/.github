@@ -7,4 +7,6 @@
   </h2>
 </div>
 
-<a href="https://github.com/dead-seeds/FAQ">Check небольшой FAQ по тому, что вас ждёт)))</a>
+<header>
+  <a href="https://github.com/dead-seeds/FAQ">Check небольшой FAQ по тому, что вас ждёт)))</a>
+</header>
